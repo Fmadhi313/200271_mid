@@ -1,0 +1,9 @@
+version: "3" 
+services: 
+    Falmadhi_200271:
+        image: <sebp/lighttpd
+        
+        ports: 
+            - <http-port>:80
+        tty: true
+ 
